@@ -5,7 +5,6 @@
 /node_modules
 /bower_components
 /dist/langs
-/dist/plugins
 /dist/ui/sass
 /src/ui/sass/_sprite*
 /plugins/**/ui/sass/_sprite*
