@@ -25,9 +25,9 @@ Package.onUse(function(api) {
         api.addAssets(assets, 'client', { isAsset: true});
     }
     api.addFiles([
-        'dist/ui/trumbowyg.min.css',
+        'dist/ui/trumbowyg.css',
         'dist/plugins/colors/ui/trumbowyg.colors.css',        
-        'dist/trumbowyg.min.js',
+        'dist/trumbowyg.js',
         'dist/plugins/colors/trumbowyg.colors.js',                     
     ], 'client');
 });
